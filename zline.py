@@ -55,7 +55,10 @@ while(1):
 
 
 
-
+'''
+1. Mention controls for the game.
+2. The program should end after game is lost.	
+'''
 
 					
 					
